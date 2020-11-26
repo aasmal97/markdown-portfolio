@@ -1,1 +1,5 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+* I know how to code HTML
+* I know how to code CSS
+* I know how to code Basic JavaScript
+* I'm a very passionate person
+* I truly love learning
